@@ -3,6 +3,7 @@
 Compiled VHDL code generates the truthtable output for a seven segment display from 0-F.
 
 Pin-Planner selection is as follows:
+
 F0		Output	PIN_G18	7	B7_N2	PIN_G18	2.5 V		8mA (default)	2 (default)		
 F1		Output	PIN_F22	7	B7_N0	PIN_F22	2.5 V		8mA (default)	2 (default)		
 F2		Output	PIN_E17	7	B7_N2	PIN_E17	2.5 V		8mA (default)	2 (default)		
